@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="borderWidth" format="dimension" />
+    <attr name="rectRoundRadius" format="dimension" />
+    <attr name="type" format="dimension" />
+    <attr name="borderColor" format="color" />
+
+
+    <declare-styleable name="ImageViewPlus">
+        <attr name="borderWidth" />
+        <attr name="borderColor" />
+        <attr name="rectRoundRadius" />
+        <attr name="type" />
+
+    </declare-styleable>
+
+</resources>
